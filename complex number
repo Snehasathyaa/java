@@ -37,3 +37,15 @@ public class ComplexNumber {
 	}
 
 }
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+output :
+
+Enter the rear part of 1st complex number: 5.5
+Enter the imaginary part of 1st complex number: 4
+Enter the rear part of 2st complex number: 1.2
+Enter the imaginary part of 2st complex number: 3.5
+Sum is : 6.7+7.5i
+
