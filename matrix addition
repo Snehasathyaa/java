@@ -54,4 +54,24 @@ public class MatrixAdd {
 
 	}
 
+----------------------------------------------------------------------------------------------------------
+
+
+output:
+
+
+Enter number of rows in Matrix A: 2
+Enter number of column in Matrix A: 2
+Enter number of rows in Matrix B: 2
+Enter number of column in Matrix B: 2
+Enter the elements of Matrix A: 8 6 5 9
+Enter the elements of Matrix B: 2 7 4 3
+Matrix A: 
+8 6 5 9 
+Matrix B: 
+2 7 4 3 
+The sum Matrix: 
+10 13 9 12 
+
+
 
